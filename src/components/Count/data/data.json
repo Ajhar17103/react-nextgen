@@ -1,0 +1,40 @@
+{
+    "counts": [
+        {
+            "id": "001",
+            "icon":"https://th.bing.com/th/id/R1eb26d01d2f51c00c8aa097bb2bdbaf6?rik=VgqwwKLHVrdF4Q&riu=http%3a%2f%2fp9cdn4static.sharpschool.com%2fUserFiles%2fServers%2fServer_90158%2fImage%2fInfo%2fNew+students%2ftips%2fsmile.png&ehk=rDGKoHOR%2bzxIm4oUYufF1qDWTW8Tt%2fW9mQKsChnI1Bs%3d&risl=&pid=ImgRaw",
+            "label": "Happy Clients",
+            "number": "500",
+            "duration": "2",
+            "dataAos":"flip-left",
+            "durations":"1000"
+        },
+        {
+            "id": "002",
+            "icon":"https://th.bing.com/th/id/R27c0ac1f060a321ff569330d3e9a3f78?rik=8tTWJjtjZWwLEA&riu=http%3a%2f%2fresourcepos.com%2fwp-content%2fuploads%2f2016%2f10%2fService-Icons-web-green_Project-Management.png&ehk=4vqgY3zj%2fWp4oGlj7hhToU2V6R9hz%2flmfINWKlVL16A%3d&risl=&pid=ImgRaw",
+            "label": "Projects",
+            "number": "100",
+            "duration": "3",
+            "dataAos":"flip-left",
+            "durations":"2000"
+        },
+        {
+            "id": "003",
+            "icon":"https://th.bing.com/th/id/R0122c49b0f27034db1a971f41e435d43?rik=k1fLDOdcbPBPqA&riu=http%3a%2f%2fst2.depositphotos.com%2f1423984%2f9442%2fv%2f950%2fdepositphotos_94420598-stock-illustration-support-vector-icon-headset-eps.jpg&ehk=sFjkRkOwxTZDQ51weqUs2ScrC0xuw0OZy%2f1hXZYgCK4%3d&risl=&pid=ImgRaw",
+            "label": "Hours Of Supports ",
+            "number": "24700",
+            "duration": "1",
+            "dataAos":"flip-left",
+            "durations":"2500"
+        },
+        {
+            "id": "004",
+            "icon":"https://th.bing.com/th/id/OIP.iCZMMpx4CAa6yjhcfJBsXQAAAA?pid=ImgDet&rs=1",
+            "label": "Workers",
+            "number": "50",
+            "duration": "4",
+            "dataAos":"flip-left",
+            "durations":"3000"
+        }
+    ]
+}

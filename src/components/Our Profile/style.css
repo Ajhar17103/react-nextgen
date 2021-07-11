@@ -1,0 +1,66 @@
+.box {
+    background: linear-gradient(45deg, #032B47 90%, #00F99A 40%);
+    border-radius: 5px;
+    color:white;
+    padding: 0px;
+    height: 260px;
+    width: 240px;
+    box-shadow: 0 3px 5px 2px rgba(255, 105, 135, .3);
+    text-align: center;
+    transition: 0.3s;
+}
+.box:hover {
+    background: linear-gradient(45deg, #032B47 30%, #08963e 90%);
+    border-radius: 5px;
+    color:white;
+    height: 300px;
+    width: 240px;
+    box-shadow: 0 3px 5px 2px rgba(255, 105, 135, .3);
+}
+
+.img-box {
+    height: 100px;
+    width: 100px;
+    top:50px;
+    object-fit: cover;
+    border-radius: 6px;
+    /* border: 1px solid black;  */
+    box-shadow: 0 3px 5px 2px rgba(255, 142, 164, 0.3);
+    position: relative;
+    background-color: white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.prof-container {
+    margin: 10px;
+    width: fit-content;
+    padding-top: 80px;
+    
+}
+.name{
+    margin-top: 75px;
+    font-size: 15px;
+    /* font-size: x-large; */
+    text-transform: uppercase;
+    font-weight: 300;
+}
+.des {
+    margin-top: 15px;
+    font-size: 13px;
+    font-weight: 500;
+    color: rgb(233, 233, 233);
+}
+.social{
+    display: flex;
+    justify-content:space-around;
+    padding: 30px;
+     
+   
+}
+ 
+.social a i{
+    font-size: 20px;
+}

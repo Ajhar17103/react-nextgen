@@ -1,0 +1,151 @@
+{
+    "management": [
+        {    
+            "id": "001",
+            "icon":"https://th.bing.com/th/id/OIP._h9TLa2CdYhG7uZ3plSdLAHaFP?pid=ImgDet&rs=1",
+            "name":"MUHAMMAD SHUMON KHAN",
+            "title":" Founder & CEO",
+            
+            "dataAos":"flip-left",
+            "durations":"1000"
+        },
+        {
+            "id": "002",
+            "icon":"https://th.bing.com/th/id/OIP._h9TLa2CdYhG7uZ3plSdLAHaFP?pid=ImgDet&rs=1",
+            "name":"MOHAMMAD KHALIQUR RAHMAN",
+            "title":"Director, Technical & Ops",
+            
+            "dataAos":"flip-left",
+            "durations":"2000"
+             
+        },
+        {
+            "id": "003",
+            "icon":"https://th.bing.com/th/id/OIP._h9TLa2CdYhG7uZ3plSdLAHaFP?pid=ImgDet&rs=1",
+            "name":"MINUDDIN CHOWDHURY",
+            "title":"CTO",
+            
+            "dataAos":"flip-left",
+            "durations":"3000"         
+        }
+       
+        
+    ],
+
+
+
+
+    "team": [
+        {    
+            "id": "001",
+            "icon":"https://th.bing.com/th/id/OIP._h9TLa2CdYhG7uZ3plSdLAHaFP?pid=ImgDet&rs=1",
+            "name":"MD. ARIFUL ISLAM",
+            "title":"Manager & Admin",
+            
+            "dataAos":"flip-left",
+            "durations":"1000"
+        },
+        {
+            "id": "002",
+            "icon":"https://th.bing.com/th/id/OIP._h9TLa2CdYhG7uZ3plSdLAHaFP?pid=ImgDet&rs=1",
+            "name":"EVAN KHAN",
+            "title":"Team Lead (Android & IOS)",
+            
+            "dataAos":"flip-left",
+            "durations":"1200"
+             
+        },
+        {
+            "id": "003",
+            "icon":"https://th.bing.com/th/id/OIP._h9TLa2CdYhG7uZ3plSdLAHaFP?pid=ImgDet&rs=1",
+            "name":"DULAL UDDIN ",
+            "title": "Senior Software Engineer" ,
+            
+            "dataAos":"flip-left",
+            "durations":"1400"        
+        },
+        {
+            "id": "004",
+            "icon":"https://th.bing.com/th/id/OIP._h9TLa2CdYhG7uZ3plSdLAHaFP?pid=ImgDet&rs=1",
+            "name":"IMRAN AHAMMED",
+            "title": "Front-end Developer",
+            
+            "dataAos":"flip-left",
+            "durations":"1600"        
+        },
+        {
+            "id": "005",
+            "icon":"https://th.bing.com/th/id/OIP._h9TLa2CdYhG7uZ3plSdLAHaFP?pid=ImgDet&rs=1",
+            "name":"MD. RAHAT HOSSAIN",
+            "title": "Database Programmer",
+            
+            "dataAos":"flip-left",
+            "durations":"1600"        
+        },
+        {
+            "id": "006",
+            "icon":"https://th.bing.com/th/id/OIP._h9TLa2CdYhG7uZ3plSdLAHaFP?pid=ImgDet&rs=1",
+            "name":"BELLAL HOSSAIN",
+            "title": "Software Engineer",
+            
+            "dataAos":"flip-left",
+            "durations":"1600"        
+        },
+        {
+            "id": "007",
+            "icon":"https://th.bing.com/th/id/OIP._h9TLa2CdYhG7uZ3plSdLAHaFP?pid=ImgDet&rs=1",
+            "name":"MD. ANIK ISLAM",
+            "title": "Software Engineer",
+            
+            "dataAos":"flip-left",
+            "durations":"1600"        
+        },
+        {
+            "id": "008",
+            "icon":"https://th.bing.com/th/id/OIP._h9TLa2CdYhG7uZ3plSdLAHaFP?pid=ImgDet&rs=1",
+            "name":"NAZMUL HASAN",
+            "title": "Software Engineer",
+            
+            "dataAos":"flip-left",
+            "durations":"1600"        
+        },
+        
+        {
+            "id": "010",
+            "icon":"https://th.bing.com/th/id/OIP._h9TLa2CdYhG7uZ3plSdLAHaFP?pid=ImgDet&rs=1",
+            "name":"BMORSALIN RIDOY",
+            "title": "Jr. Software Engineer",
+            
+            "dataAos":"flip-left",
+            "durations":"1600"        
+        },
+        {
+            "id": "011",
+            "icon":"https://th.bing.com/th/id/OIP._h9TLa2CdYhG7uZ3plSdLAHaFP?pid=ImgDet&rs=1",
+            "name":"SHAHIN ALAM",
+            "title": "IMP & Support Engineer",
+            
+            "dataAos":"flip-left",
+            "durations":"1600"        
+        },
+        {
+            "id": "012",
+            "icon":"https://th.bing.com/th/id/OIP._h9TLa2CdYhG7uZ3plSdLAHaFP?pid=ImgDet&rs=1",
+            "name":"SAIDUL ISLAM",
+            "title": " Office Assistant",
+            
+            "dataAos":"flip-left",
+            "durations":"1600"        
+        },
+        {
+            "id": "009",
+            "icon":"https://th.bing.com/th/id/OIP._h9TLa2CdYhG7uZ3plSdLAHaFP?pid=ImgDet&rs=1",
+            "name":"ELIAS",
+            "title": " Office Assistant",
+            
+            "dataAos":"flip-left",
+            "durations":"1600"        
+        }
+
+    ]
+}

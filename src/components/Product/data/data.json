@@ -1,0 +1,90 @@
+{
+    "products": [
+        {    
+            "id": "001",
+            "icon":"https://image.flaticon.com/icons/png/512/3063/3063176.png",
+            "label": "HMIS",
+            "description":"HOSPITAL MANAGEMENT SOFTWARE",
+            "dataAos":"flip-left",
+            "durations":"1000"
+        },
+        {
+            "id": "002",
+            "icon":"https://image.flaticon.com/icons/png/512/2248/2248739.png",
+            "label": "CRM",
+            "description":"CUSTOMER RELATIONSHIPS MANAGEMENT",
+           
+            "dataAos":"flip-left",
+            "durations":"1700"
+             
+        },
+        {
+            "id": "003",
+            "label": "TELEMEDICINE",
+            "icon": "https://image.flaticon.com/icons/png/512/2464/2464486.png",
+            "description":"TELECUMMICATION  MEDICAL CONSULTATIONS ",
+           
+            "dataAos":"flip-left",
+            "durations":"2400"             
+        },
+        {
+            "id": "004",
+            "icon":"https://image.flaticon.com/icons/png/512/2942/2942821.png",
+            "label": "JOB PORTAL",
+             "description":"Sed ut perspiciatis unde omnis iste natus error sit ",
+            
+            "dataAos":"flip-left",
+            "durations":"3000"
+             
+        },
+        {    
+            "id": "005",
+            "icon":"https://image.flaticon.com/icons/png/512/951/951776.png",
+            "label": "ITEM NAME",
+            "description":"ADD NEW DESCRIPTION",
+            "dataAos":"flip-left",
+            "durations":"1000"
+        },
+        {
+            "id": "006",
+            "icon":"https://image.flaticon.com/icons/png/512/951/951776.png",
+            "label": "ITEM NAME",
+            "description":"ADD NEW DESCRIPTION",
+          
+            "dataAos":"flip-left",
+            "durations":"1700"
+             
+        },
+        {
+            "id": "007",
+            "icon": "https://image.flaticon.com/icons/png/512/951/951776.png",
+            "label": "ITEM NAME",
+            "description":"ADD NEW DESCRIPTION",
+         
+            "dataAos":"flip-left",
+            "durations":"2400"             
+        },
+        {
+            "id": "008",
+            "icon":"https://image.flaticon.com/icons/png/512/951/951776.png",
+            "label": "ITEM NAME",
+            "description":"ADD NEW DESCRIPTION",
+           
+            "dataAos":"flip-left",
+            "durations":"3000"
+             
+        },
+        {
+            "id": "09",
+            "icon":"https://image.flaticon.com/icons/png/512/951/951776.png",
+            "label": "ITEM NAME",
+            "description":"ADD NEW DESCRIPTION",
+           
+            "dataAos":"flip-left",
+            "durations":"1700"
+             
+        }
+       
+        
+    ]
+}

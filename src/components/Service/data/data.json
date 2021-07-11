@@ -1,0 +1,97 @@
+{
+    "service": [
+        {    
+            "id": "001",
+            "icon":"https://image.flaticon.com/icons/png/512/4516/4516679.png",
+            "label": "WEB DEVELOPMENT",
+            "description":"Web",
+            "dataAos":"flip-left",
+            "durations":"1000",
+            "path":"/web"
+        },
+        {
+            "id": "002",
+            "icon":"https://image.flaticon.com/icons/png/512/1875/1875043.png",
+            "label":"APPS DEVELOPMENT",
+            
+            "description":"Android & ios",
+            "dataAos":"flip-left",
+            "durations":"1700",
+            "path":"/app"
+             
+        },
+        {
+            "id": "003",
+            "icon": "https://image.flaticon.com/icons/png/512/888/888954.png",
+            "label": "SOFTWARE DEVELOPMENT",
+            "description":"Desktop & Web Application",
+           
+            "dataAos":"flip-left",
+            "durations":"2400",
+            "path":"/software"         
+        },
+        {
+            "id": "004",
+            "icon":"https://image.flaticon.com/icons/png/512/2942/2942821.png",
+            "label": "JOB PORTAL",
+         
+            "description":"Web & Apps",
+            "dataAos":"flip-left",
+            "durations":"3000",
+            "path":"/jobportal"
+             
+        },
+        {    
+            "id": "005",
+            "icon":"https://image.flaticon.com/icons/png/512/1006/1006660.png",
+            "label": "BUSINESS ERP",
+            "description":"Web & Apps",
+            "dataAos":"flip-left",
+            "durations":"1000",
+            "path":"/erp"
+        },
+        {
+            "id": "006",
+            "icon":"https://image.flaticon.com/icons/png/512/2898/2898092.png",
+            "label": "E-COMMERCE",
+            "description":"Web & Apps",
+            
+            "dataAos":"flip-left",
+            "durations":"1700",
+            "path":"/commerce"
+             
+        },
+        {
+            "id": "007",
+            "icon": "https://image.flaticon.com/icons/png/512/4253/4253055.png",
+            "label": "ONLINE MARKETING",
+            "description":"SEO",
+            
+            "dataAos":"flip-left",
+            "durations":"2400",
+            "path":"/"           
+        },
+        {
+            "id": "008",
+            "icon":"https://image.flaticon.com/icons/png/512/4626/4626464.png",
+            "label": "IT CONSULTANCY",
+            "description":"Business & Technology Services",
+            "dataAos":"flip-left",
+            "durations":"3000",
+            "path":"/itconsultancy"
+             
+        },
+        {
+            "id": "09",
+            "icon":"https://image.flaticon.com/icons/png/512/607/607414.png",
+            "label": "ITEM NAME",
+            "description":"ADD NEW DESCRIPTION", 
+            "dataAos":"flip-left",
+            "durations":"1700",
+            "path":"/web"
+             
+        }
+       
+        
+    ]
+}

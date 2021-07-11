@@ -1,0 +1,18 @@
+
+.cards{
+  min-height: 320px;
+ 
+}
+
+
+.cards:hover{
+background-color: #032B47;
+  color: white
+}
+.head{
+  padding: 100px;
+  background-color: red;
+}
+.headersBtn{
+  background-color: #00F99A;
+}
